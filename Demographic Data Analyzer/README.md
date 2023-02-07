@@ -42,4 +42,4 @@ Copy your project's URL and submit it to freeCodeCamp.
 
 ## **Dataset Source**
 
-Dua, D. and Graff, C. (2019). __UCI Machine Learning Repository__. Irvine, CA: University of California, School of Information and Computer Science.
+Dua, D. and Graff, C. (2019). <ins>UCI Machine Learning Repository</ins>. Irvine, CA: University of California, School of Information and Computer Science.
