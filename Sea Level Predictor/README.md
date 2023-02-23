@@ -16,18 +16,18 @@ Unit tests are written for you under <code>test_module.py</code>.
 
 The boilerplate also includes commands to save and return the image.
 
-Development
+## **Development**
 
 For development, you can use <code>main.py</code> to test your functions. Click the "run" button and <code>main.py</code> will run.
 
-Testing
+## **Testing**
 
 We imported the tests from <code>test_module.py</code> to <code>main.py</code> for your convenience. The tests will run automatically whenever you hit the "run" button.
 
-Submitting
+## **Submitting**
 
 Copy your project's URL and submit it to freeCodeCamp.
 
-Data Source
+## **Data Source**
 
 <ins>Global Average Absolute Sea Level Change</ins>, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
