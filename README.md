@@ -10,4 +10,4 @@ Certification projects:
 - Sea Level Predictor
 
 
-<!--- <div align = "center"><img src="https://github.com/szabolcs-attila-sasvari/freeCodeCamp-Scientific-Computing-with-Python/blob/main/freeCodeCamp_Scientific_Computing_with_Python_certification.png"></div> --->
+<div align = "center"><img src=https://github.com/szabolcs-attila-sasvari/freeCodeCamp-Data-Analysis-with-Python/blob/main/freeCodeCamp_Data_Analysis_with_Python.png>
